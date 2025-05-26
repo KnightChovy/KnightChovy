@@ -7,6 +7,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=KnightChovy&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KnightChovy&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KnightChovy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KnightChovy&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KnightChovy&icon=0&color=0)](https://visitcount.itsvg.in)
